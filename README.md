@@ -10,17 +10,17 @@ Complete explanation published in [Revue3.0 blog](https://revue30.org/blog/) !
 
 After installation go to [Isidore](https://isidore.science) and look for an article. On the bottom left corner should appear a button 'IEML-RS'. 
 
-![Clicking on the IEML-RS button opens a panel on the right of the page: keywords or related subjects from the article are listed either in blue or orange.](img/etape1_ouverturePanel.png)
+![Clicking on the IEML-RS button opens a panel on the right of the page: keywords or related subjects from the article are listed either in blue or orange.](img/etape1_ouverturePanel.png "Clicking on the IEML-RS button opens a panel on the right of the page: keywords or related subjects from the article are listed either in blue or orange.")
 
 
-![Blue keywords have already been translated into IEML, while orange keywords will be translated in two steps.](img/etape3_propositionTraduction.png)
+![Blue keywords have already been translated into IEML, while orange keywords will be translated in two steps.](img/etape3_propositionTraduction.png "Blue keywords have already been translated into IEML, while orange keywords will be translated in two steps")
 
 
-![Selection of a keyword displays its translation in IEML](img/etape2_selectionConcept.png)
+![Selection of a keyword displays its translation in IEML](img/etape2_selectionConcept.png "Selection of a keyword displays its translation in IEML")
 
-![From the history of selected keywords and concepts the user can manually create a query](img/etape5_selectionLogs.png)
+![From the history of selected keywords and concepts the user can manually create a query](img/etape5_selectionLogs.png "From the history of selected keywords and concepts the user can manually create a query")
 
-![Clicking on 'Rechercher des articles associés' will produce 2 lists of articles, one from the selected keywords (1st panel) and one from a query-augmented search (2nd panel)](img/etape6_affichageArticles.png)
+![Clicking on 'Rechercher des articles associés' will produce 2 lists of articles, one from the selected keywords (1st panel) and one from a query-augmented search (2nd panel)](img/etape6_affichageArticles.png "Clicking on 'Rechercher des articles associés' will produce 2 lists of articles, one from the selected keywords (1st panel) and one from a query-augmented search (2nd panel)")
 
 
 
@@ -59,7 +59,3 @@ Content of `src` must be compressed into a zip file to be converted into xpi whe
 - `embd_full.tar.xz`: embeddings of the [IEML dictionnary](https://ieml.intlekt.io/) (by word) 
 
 `rag-eval`: detailed in `rag_evaluation_report.md`. 
-
-
-
-
