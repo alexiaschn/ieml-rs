@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "name": "Recherche exploratoire",
+  "version": "1.2.2",
+  "description": "Article suggestion for Isidore based on IEML ontology navigation from seed article keywords. Compare retrieved articles from simple keyword search and an LLM-augmented query",
+  "permissions": [  "storage",
+  "activeTab",
+  "scripting",
+  "https://rag-proxy-worker.rag-proxy-worker.workers.dev/*"
+  ],
+  "icons": {
+    "48": "icons/shuffle-48.png",
+    "128": "icons/shuffle-128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://isidore.science/document/*"],
+      "js": ["script.js"]
+    }
+  ],
+  "browser_action": {
+    "default_title": "Recherche exploratoire"
+  },
+  "web_accessible_resources": ["data.csv"],
+  "browser_specific_settings": {
+  "gecko": {
+    "data_collection_permissions": {
+      "required": ["searchTerms", "websiteActivity"]
+      }
+    }
+  }
+}

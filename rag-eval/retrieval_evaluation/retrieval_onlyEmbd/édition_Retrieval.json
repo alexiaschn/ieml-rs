@@ -1,0 +1,142 @@
+[
+  {
+    "rank": 1,
+    "score": 1.0,
+    "id": 100,
+    "word": "édition",
+    "page-title": "Social roles & institutions"
+  },
+  {
+    "rank": 2,
+    "score": 0.9544247388839722,
+    "id": 103,
+    "word": "éditeur",
+    "page-title": "Social roles & institutions"
+  },
+  {
+    "rank": 3,
+    "score": 0.9500219225883484,
+    "id": 82,
+    "word": "éditer",
+    "page-title": "Signs & semiotic functions"
+  },
+  {
+    "rank": 4,
+    "score": 0.9418826103210449,
+    "id": 101,
+    "word": "publication",
+    "page-title": "Social roles & institutions"
+  },
+  {
+    "rank": 5,
+    "score": 0.941594123840332,
+    "id": 32,
+    "word": "réalisation",
+    "page-title": "Noetic categories"
+  },
+  {
+    "rank": 6,
+    "score": 0.9398255348205566,
+    "id": 102,
+    "word": "publier",
+    "page-title": "Social roles & institutions"
+  },
+  {
+    "rank": 7,
+    "score": 0.9373183250427246,
+    "id": 273,
+    "word": "production de contenu",
+    "page-title": "Competencies & their objects"
+  },
+  {
+    "rank": 8,
+    "score": 0.9367694854736328,
+    "id": 71,
+    "word": "sortie",
+    "page-title": "Positions & objects in space"
+  },
+  {
+    "rank": 9,
+    "score": 0.934614360332489,
+    "id": 2,
+    "word": "création",
+    "page-title": "Causatives"
+  },
+  {
+    "rank": 10,
+    "score": 0.9340670704841614,
+    "id": 81,
+    "word": "rédiger",
+    "page-title": "Signs & semiotic functions"
+  },
+  {
+    "rank": 11,
+    "score": 0.9314050674438477,
+    "id": 18,
+    "word": "représentation",
+    "page-title": "Noetic categories"
+  },
+  {
+    "rank": 12,
+    "score": 0.9312766790390015,
+    "id": 89,
+    "word": "divulgation",
+    "page-title": "Performative acts"
+  },
+  {
+    "rank": 13,
+    "score": 0.9303019046783447,
+    "id": 185,
+    "word": "publication de la vérité",
+    "page-title": "Competencies & their objects"
+  },
+  {
+    "rank": 14,
+    "score": 0.9301795959472656,
+    "id": 22,
+    "word": "réifier",
+    "page-title": "Primitives"
+  },
+  {
+    "rank": 15,
+    "score": 0.9301742315292358,
+    "id": 63,
+    "word": "affiché",
+    "page-title": "Technical functions"
+  },
+  {
+    "rank": 16,
+    "score": 0.9280731678009033,
+    "id": 101,
+    "word": "référence",
+    "page-title": "Noetic categories"
+  },
+  {
+    "rank": 17,
+    "score": 0.9277134537696838,
+    "id": 263,
+    "word": "indiqué",
+    "page-title": "Technical functions"
+  },
+  {
+    "rank": 18,
+    "score": 0.9273123145103455,
+    "id": 25,
+    "word": "métadonnées-maison d'édition",
+    "page-title": "Documentation metadata"
+  },
+  {
+    "rank": 19,
+    "score": 0.9270477890968323,
+    "id": 24,
+    "word": "génération",
+    "page-title": "Actions & agents"
+  },
+  {
+    "rank": 20,
+    "score": 0.9270201921463013,
+    "id": 36,
+    "word": "correctement",
+    "page-title": "Human experience"
+  }
+]

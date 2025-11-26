@@ -1,0 +1,142 @@
+[
+  {
+    "rank": 1,
+    "score": 1.0,
+    "id": 100,
+    "word": "édition",
+    "page-title": "Social roles & institutions"
+  },
+  {
+    "rank": 2,
+    "score": 0.7801062726911137,
+    "id": 25,
+    "word": "métadonnées-maison d'édition",
+    "page-title": "Documentation metadata"
+  },
+  {
+    "rank": 3,
+    "score": 0.6592950848499413,
+    "id": 98,
+    "word": "édition traduction publication en ligne pour les sciences humaines",
+    "page-title": "Disciplines & their objects"
+  },
+  {
+    "rank": 4,
+    "score": 0.4772123694419861,
+    "id": 103,
+    "word": "éditeur",
+    "page-title": "Social roles & institutions"
+  },
+  {
+    "rank": 5,
+    "score": 0.4750109612941742,
+    "id": 82,
+    "word": "éditer",
+    "page-title": "Signs & semiotic functions"
+  },
+  {
+    "rank": 6,
+    "score": 0.47094130516052246,
+    "id": 101,
+    "word": "publication",
+    "page-title": "Social roles & institutions"
+  },
+  {
+    "rank": 7,
+    "score": 0.470797061920166,
+    "id": 32,
+    "word": "réalisation",
+    "page-title": "Noetic categories"
+  },
+  {
+    "rank": 8,
+    "score": 0.4699127674102783,
+    "id": 102,
+    "word": "publier",
+    "page-title": "Social roles & institutions"
+  },
+  {
+    "rank": 9,
+    "score": 0.4686591625213623,
+    "id": 273,
+    "word": "production de contenu",
+    "page-title": "Competencies & their objects"
+  },
+  {
+    "rank": 10,
+    "score": 0.4683847427368164,
+    "id": 71,
+    "word": "sortie",
+    "page-title": "Positions & objects in space"
+  },
+  {
+    "rank": 11,
+    "score": 0.4673071801662445,
+    "id": 2,
+    "word": "création",
+    "page-title": "Causatives"
+  },
+  {
+    "rank": 12,
+    "score": 0.4670335352420807,
+    "id": 81,
+    "word": "rédiger",
+    "page-title": "Signs & semiotic functions"
+  },
+  {
+    "rank": 13,
+    "score": 0.46570253372192383,
+    "id": 18,
+    "word": "représentation",
+    "page-title": "Noetic categories"
+  },
+  {
+    "rank": 14,
+    "score": 0.46563833951950073,
+    "id": 89,
+    "word": "divulgation",
+    "page-title": "Performative acts"
+  },
+  {
+    "rank": 15,
+    "score": 0.46515095233917236,
+    "id": 185,
+    "word": "publication de la vérité",
+    "page-title": "Competencies & their objects"
+  },
+  {
+    "rank": 16,
+    "score": 0.4650897979736328,
+    "id": 22,
+    "word": "réifier",
+    "page-title": "Primitives"
+  },
+  {
+    "rank": 17,
+    "score": 0.4650871157646179,
+    "id": 63,
+    "word": "affiché",
+    "page-title": "Technical functions"
+  },
+  {
+    "rank": 18,
+    "score": 0.46403658390045166,
+    "id": 101,
+    "word": "référence",
+    "page-title": "Noetic categories"
+  },
+  {
+    "rank": 19,
+    "score": 0.4638567268848419,
+    "id": 263,
+    "word": "indiqué",
+    "page-title": "Technical functions"
+  },
+  {
+    "rank": 20,
+    "score": 0.46352389454841614,
+    "id": 24,
+    "word": "génération",
+    "page-title": "Actions & agents"
+  }
+]

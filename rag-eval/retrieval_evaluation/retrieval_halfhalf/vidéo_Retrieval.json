@@ -1,0 +1,142 @@
+[
+  {
+    "rank": 1,
+    "score": 0.8793499473584674,
+    "id": 11,
+    "word": "métadonnées-vidéo",
+    "page-title": "Documentation metadata"
+  },
+  {
+    "rank": 2,
+    "score": 0.4749605059623718,
+    "id": 6,
+    "word": "audiovisuel",
+    "page-title": "Technical functions"
+  },
+  {
+    "rank": 3,
+    "score": 0.46541810035705566,
+    "id": 45,
+    "word": "visuel",
+    "page-title": "Sensori-motor exp. & control"
+  },
+  {
+    "rank": 4,
+    "score": 0.46479615569114685,
+    "id": 5,
+    "word": "multimédia",
+    "page-title": "Technical functions"
+  },
+  {
+    "rank": 5,
+    "score": 0.4628911018371582,
+    "id": 43,
+    "word": "voir",
+    "page-title": "Sensori-motor exp. & control"
+  },
+  {
+    "rank": 6,
+    "score": 0.46119844913482666,
+    "id": 255,
+    "word": "regarder",
+    "page-title": "Technical functions"
+  },
+  {
+    "rank": 7,
+    "score": 0.46016785502433777,
+    "id": 4,
+    "word": "image visuelle",
+    "page-title": "Sensori-motor exp. & control"
+  },
+  {
+    "rank": 8,
+    "score": 0.4599882662296295,
+    "id": 88,
+    "word": "numérique",
+    "page-title": "Signs & semiotic functions"
+  },
+  {
+    "rank": 9,
+    "score": 0.4597114324569702,
+    "id": 21,
+    "word": "affichage d'une image visuelle",
+    "page-title": "Sensori-motor exp. & control"
+  },
+  {
+    "rank": 10,
+    "score": 0.45937055349349976,
+    "id": 10,
+    "word": "métadonnées-film",
+    "page-title": "Documentation metadata"
+  },
+  {
+    "rank": 11,
+    "score": 0.4585309624671936,
+    "id": 61,
+    "word": "écran",
+    "page-title": "Technical functions"
+  },
+  {
+    "rank": 12,
+    "score": 0.4572785496711731,
+    "id": 52,
+    "word": "voix",
+    "page-title": "Signs & semiotic functions"
+  },
+  {
+    "rank": 13,
+    "score": 0.45687365531921387,
+    "id": 3,
+    "word": "studio multimédia",
+    "page-title": "Technical functions"
+  },
+  {
+    "rank": 14,
+    "score": 0.45668187737464905,
+    "id": 22,
+    "word": "afficher ou diffuser une image visuelle",
+    "page-title": "Sensori-motor exp. & control"
+  },
+  {
+    "rank": 15,
+    "score": 0.45642250776290894,
+    "id": 3,
+    "word": "virtuel",
+    "page-title": "Primitives"
+  },
+  {
+    "rank": 16,
+    "score": 0.4558268189430237,
+    "id": 45,
+    "word": "en ligne",
+    "page-title": "Technical functions"
+  },
+  {
+    "rank": 17,
+    "score": 0.4557873010635376,
+    "id": 4,
+    "word": "produire un message multimédia",
+    "page-title": "Technical functions"
+  },
+  {
+    "rank": 18,
+    "score": 0.4553326964378357,
+    "id": 6,
+    "word": "virtuellement",
+    "page-title": "Primitives"
+  },
+  {
+    "rank": 19,
+    "score": 0.45488107204437256,
+    "id": 187,
+    "word": "chaînes",
+    "page-title": "Negativity"
+  },
+  {
+    "rank": 20,
+    "score": 0.4546235203742981,
+    "id": 0,
+    "word": "vide",
+    "page-title": "Primitives"
+  }
+]

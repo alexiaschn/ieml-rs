@@ -1,0 +1,142 @@
+[
+  {
+    "rank": 1,
+    "score": 0.9310727715492249,
+    "id": 88,
+    "word": "numérique",
+    "page-title": "Signs & semiotic functions"
+  },
+  {
+    "rank": 2,
+    "score": 0.9306982755661011,
+    "id": 220,
+    "word": "didactique",
+    "page-title": "Values"
+  },
+  {
+    "rank": 3,
+    "score": 0.9305012226104736,
+    "id": 70,
+    "word": "enseignement",
+    "page-title": "Performative acts"
+  },
+  {
+    "rank": 4,
+    "score": 0.9295700788497925,
+    "id": 28,
+    "word": "apprentissage collaboratif",
+    "page-title": "Data curation & critical thinking"
+  },
+  {
+    "rank": 5,
+    "score": 0.9276207685470581,
+    "id": 18,
+    "word": "métadonnées-multimedia interactif",
+    "page-title": "Documentation metadata"
+  },
+  {
+    "rank": 6,
+    "score": 0.9258500933647156,
+    "id": 38,
+    "word": "outil de communication",
+    "page-title": "Human development"
+  },
+  {
+    "rank": 7,
+    "score": 0.9250370264053345,
+    "id": 16,
+    "word": "outil d'interface ",
+    "page-title": "Human development"
+  },
+  {
+    "rank": 8,
+    "score": 0.9245941638946533,
+    "id": 69,
+    "word": "enseigner",
+    "page-title": "Performative acts"
+  },
+  {
+    "rank": 9,
+    "score": 0.9242719411849976,
+    "id": 94,
+    "word": "pédagogie",
+    "page-title": "Disciplines & their objects"
+  },
+  {
+    "rank": 10,
+    "score": 0.9234259128570557,
+    "id": 219,
+    "word": "éducatif",
+    "page-title": "Values"
+  },
+  {
+    "rank": 11,
+    "score": 0.92238450050354,
+    "id": 3,
+    "word": "métadonnées-texte illustré",
+    "page-title": "Documentation metadata"
+  },
+  {
+    "rank": 12,
+    "score": 0.9222111701965332,
+    "id": 12,
+    "word": "apprentissage",
+    "page-title": "Performative acts"
+  },
+  {
+    "rank": 13,
+    "score": 0.9202964901924133,
+    "id": 232,
+    "word": "informatisé",
+    "page-title": "Technical functions"
+  },
+  {
+    "rank": 14,
+    "score": 0.920192301273346,
+    "id": 50,
+    "word": "outil",
+    "page-title": "Generative mutations"
+  },
+  {
+    "rank": 15,
+    "score": 0.920187771320343,
+    "id": 44,
+    "word": "apprentissage pratique",
+    "page-title": "School years or grade levels"
+  },
+  {
+    "rank": 16,
+    "score": 0.9201107025146484,
+    "id": 315,
+    "word": "leçon",
+    "page-title": "Social roles & institutions"
+  },
+  {
+    "rank": 17,
+    "score": 0.9192630648612976,
+    "id": 45,
+    "word": "en ligne",
+    "page-title": "Technical functions"
+  },
+  {
+    "rank": 18,
+    "score": 0.9186369180679321,
+    "id": 218,
+    "word": "éduquer",
+    "page-title": "Values"
+  },
+  {
+    "rank": 19,
+    "score": 0.9172676801681519,
+    "id": 242,
+    "word": "processus d'apprentissage",
+    "page-title": "Disciplines & their objects"
+  },
+  {
+    "rank": 20,
+    "score": 0.9172135591506958,
+    "id": 45,
+    "word": "logiciel",
+    "page-title": "Signs & semiotic functions"
+  }
+]

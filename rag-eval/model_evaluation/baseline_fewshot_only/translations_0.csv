@@ -1,0 +1,361 @@
+autochtone,0:identité,1:peuple autochtone,2:origine,3:,4:,5:*issu de territoire ancestral,6:,7:,8:*dans le contexte de communauté native
+première nation,0:peuple,1:autochtone,2:,3:,4:*en relation avec terre ancestrale,5:,6:,7:,8:*avant colonisation
+chanteur,0:musique,1:chanteur,2:chanson,3:,4:,5:,6:,7:*sur scène,8:*pour divertir
+colonialisme,0:politique,1:pays colonisateur,2:domination,3:a_qui:peuple colonisé,4:par_quoi:armée et politique,5:*quand:période coloniale,6:ou:territoire colonisé,7:pourquoi:exploitation des ressources,8:comment:*par la force et la coercition
+douze vers,0:littérature,1:,2:,3:,4:,5:*a pour propriété douze vers,6:,7:,8:
+étude critique,0:théorie,1:étude critique,2:,3:,4:*en relation avec analyse,5:,6:,7:,8:
+France du sud,0:région,1:,2:,3:,4:,5:,6:sud de la France,7:,8:
+langue occitane,0:,1:,2:,3:,4:,5:,6:,7:,8:
+occitan,0:langue,1:,2:,3:,4:,5:,6:région Occitanie,7:,8:
+langue d'Oc,0:langue,1:,2:,3:,4:,5:,6:sud de la France,7:,"8:""""langue romane"""""
+langue anglaise,0:langue,1:,2:,3:,4:,5:,6:Angleterre,7:,8:
+langue espagnole,0:langue,1:,2:,3:,4:,5:,6:Espagne,7:,8:
+langue indigène,0:langue,1:peuple autochtone,2:langue,3:,4:,5:*par le moyen de tradition orale,6:,7:,8:
+lesbienne,0:identité,1:lesbienne,2:relation amoureuse,3:,4:*entre femme,5:,6:,7:,8:*en relation avec orientation sexuelle
+lettre,0:communication,1:expéditeur,2:message,3:destinataire,4:*par le moyen de système postal ou électronique,5:,6:,7:,8:
+maîtrise d'une première langue,0:langue,1:apprenant,2:langue maternelle,3:,4:,5:,6:,7:*dès la naissance,8:
+marionnette,0:théâtre,1:puppeteer,2:manipuler,3:,4:*par le moyen de fil ou de tringle,5:,6:,7:,8:*pour divertir ou éduquer
+peuple,0:société,1:~plusieurs individu,2:,3:,4:,5:,6:*dans un territoire donné,7:,8:
+scénario,0:théorie,1:,2:situation,3:,4:*par le moyen de planification,5:,6:,7:,8:
+vidéo,0:technologie,1:,2:enregistrer,3:,4:*par le moyen de caméra,5:,6:,7:,8:*avec son et image
+espace numérique,0:technologie,1:,2:espace,3:,4:*par le moyen de numérique,5:,6:,7:,8:
+écriture numérique,0:,1:,2:,3:,4:,5:,6:,7:,8:
+outil pédagogique numérique,0:,1:,2:,3:,4:,5:,6:,7:,8:
+traducteurs automatiques,0:technologie,1:ordinateur,2:traduire,3:,4:*par le moyen de logiciel spécialisé,5:,6:,7:,8:
+expérience utilisateur,0:conception,1:utilisateur,2:interaction,3:,4:*par le moyen de système informatique,5:,6:,7:,8:*pour améliorer l'expérience utilisateur
+ressources numériques,0:technologie,1:,2:ressource,3:,4:*par le moyen de numérique,5:,6:,7:,8:
+médias sociaux,0:,1:,2:,3:,4:,5:,6:,7:,8:
+réseaux sociaux,0:communication,1:utilisateur,2:échanger,3:,4:*par le moyen de plateforme en ligne,5:,6:,7:*sur internet,8:
+communauté virtuelle,0:technologie,1:~plusieurs utilisateur,2:,3:,4:*en relation avec internet,5:,6:,7:,8:*par le moyen de réseau informatique
+influenceur,0:communication,1:influenceur,2:personne,3:,4:*par le moyen de réseaux sociaux,5:,6:,7:,8:*pour promouvoir produit ou idée
+culture numérique,0:technologie,1:,2:culture,3:,4:*par le moyen de technologie numérique,5:,6:,7:,8:
+représentation,0:communication,1:acteur,2:information,3:,4:*par le moyen de symbole ou d'image,5:,6:,7:*dans le but de transmettre un message,8:*avec intention de communiquer
+réflexion,0:pensée,1:individu,2:réfléchir,3:,4:*par le moyen de pensée critique,5:,6:,7:,8:
+imprévu,0:événement,1:,2:,3:,4:,5:*de manière inattendue,6:,7:,8:
+évasion,0:action,1:individu,2:fuir,3:,4:*par le moyen de stratégie,5:,6:,7:liberté,8:*en secret
+violence,0:négativité,1:individu,2:action,3:n'autrui,4:par agression,5:*,6:*,7:pour dominer,8:*de manière agressive
+exploitation,0:économie,1:entreprise,2:ressource,3:,4:*par le moyen de travail,5:,6:,7:*pour profit,8:*avec méthode d'extraction ou de production
+oubli,0:mémoire,1:individu,2:mémoire,3:,4:*par manque d'attention ou de rappel,5:,6:,7:*dans le cerveau,8:
+effondrement,0:événement,1:catastrophe,2:,3:système,4:,5:*par le moyen de défaillance,6:,7:,8:
+identité,0:psychologie,1:individu,2:caractéristique,3:,4:*par le moyen de expérience,5:,6:,7:,8:*définir soi-même
+subjectivité,0:philosophie,1:individu,2:expérience,3:,4:*par le moyen de perception personnelle,5:,6:,7:,8:
+possession,0:droit,1:propriétaire,2:objet,3:,4:*par le moyen de droit de propriété,5:,6:,7:,8:
+image de soi,0:psychologie,1:individu,2:représentation,3:,4:*par le moyen de perception,5:,6:,7:,8:*pour comprendre soi-même
+altérité,0:philosophie,1:individu,2:différence,3:,4:*par le moyen de conscience de soi,5:,6:,7:*dans le contexte de relation avec l'autre,8:
+spontanéité,0:comportement,1:individu,2:action,3:,4:*de manière naturelle et sans réflexion,5:,6:,7:*sans préparation,8:expression de soi
+édition,0:publication,1:éditeur,2:publier,3:,4:*par le moyen de processus éditorial,5:,6:,7:,8:
+représentation (théâtre),0:théâtre,1:acteur,2:mettre en scène,3:,4:*par le moyen de jeu théâtral,5:,6:,7:,8:
+audience,0:communication,1:public,2:cour,3:auditeur,4:par le moyen de parole ou d'écrit,5:,6:,7:*dans un lieu public,8:
+réception,0:communication,1:récepteur,2:message,3:,4:*par le moyen de canal de communication,5:,6:,7:,8:
+restitution,0:justice,1:victime,2:dommage,3:,4:*par le moyen de procédure légale,5:,6:,7:*pour réparation,8:*avec indemnisation
+intermédialité,0:théorie,1:,2:média,3:,4:,5:,6:,7:,8:*entre plusieurs média
+transmédia,0:communication,1:créateur,2:contenu,3:,4:*par le moyen de plusieurs média,5:,6:,7:*pour atteindre un public plus large,8:*avec interaction entre les médias
+conteuse,0:littérature,1:conteuse,2:conter,3:,4:*par le moyen de parole,5:,6:,7:,8:*transmettre histoire
+littérature,0:littérature,1:écrivain,2:écrire,3:,4:*par le moyen de langage,5:,6:,7:*pour exprimer des idées et des émotions,8:*avec créativité et imagination
+littérature anti-littéraire,0:littérature,1:,2:,3:,4:,5:*en réaction contre littérature traditionnelle,6:,7:,8:*contre les conventions littéraires
+littérature des pensionnats,0:littérature,1:élève,2:pensionnat,3:,4:,5:,6:,7:*dans école,8:
+littérature engagée,0:littérature,1:écrivain,2:engager,3:,4:*par le moyen de écriture,5:,6:,7:,8:*pour dénoncer ou promouvoir une cause
+littérature de l'imaginaire,0:littérature,1:,2:,3:,4:,5:*par le moyen de imagination,6:,7:,8:*pour explorer le monde de l'imaginaire
+littérature médiévale,0:littérature,1:,2:,3:,4:,5:*pendant moyen âge,6:,7:,8:*en Europe
+littérature comparée,0:littérature,1:chercheur,2:littérature,3:,4:,5:,6:,7:*entre différentes littérature,8:
+littérature contemporaine,0:littérature,1:,2:,3:,4:,5:*dans le contexte de l'époque actuelle,6:,7:,8:*pour refléter la société d'aujourd'hui
+littérature de genre,0:littérature,1:,2:genre,3:,4:,5:,6:,7:,8:
+littérature autochtone,0:littérature,1:peuple autochtone,2:expression culturelle,3:,4:*par le moyen de langue autochtone,5:,6:,7:*dans le contexte de culture autochtone,8:
+littératures autochtones,0:littérature,1:peuple autochtone,2:écrire,3:,4:*par le moyen de langue autochtone,5:,6:,7:*dans le contexte de culture autochtone,8:
+littérature lesbienne,0:littérature,1:lesbienne,2:écrire,3:,4:*par le moyen de texte,5:,6:,7:,8:*explorer l'identité lesbienne
+lesbianisme dans la littérature,0:littérature,1:,2:,3:,4:,5:*dans le contexte de l'orientation sexuelle,6:,7:,8:*explorer l'identité lesbienne
+genres en littérature,0:littérature,1:,2:,3:,4:,5:*par le moyen de classification,6:,7:,8:
+littérature mineure,0:littérature,1:,2:littérature,3:,4:*écrite par minorité,5:,6:,7:,8:
+littérature orale,0:littérature,1:conteur,2:transmettre une histoire,3:,4:*par le moyen de parole,5:,6:,7:*dans une communauté,8:préserver la culture
+littérature orale acholie,0:littérature,1:peuple acholi,2:transmettre histoire et culture,3:,4:*par le moyen de parole et de tradition orale,5:,6:,7:*dans la communauté acholie,8:
+littérature autochtone francophone,0:littérature,1:peuple autochtone,2:expression culturelle,3:,4:*par le moyen de langue française,5:,6:,7:*dans le contexte de culture autochtone,8:
+littératures autochtones francophones,0:littérature,1:peuple autochtone,2:écrire,3:,4:*en langue française,5:,6:,7:*en contexte culturel autochtone,8:
+littérature francophone autochtone,0:littérature,1:peuple autochtone,2:expression culturelle,3:,4:*par le moyen de langue française,5:,6:,7:*dans les communautés autochtones,8:
+littératures francophones autochtones,0:littérature,1:communauté autochtone,2:expression littéraire,3:,4:*en langue française,5:,6:,7:*dans les communautés autochtones,8:
+littérature autochtone hispanophone,0:littérature,1:peuple autochtone,2:expression culturelle,3:,4:*par le moyen de langue espagnole,5:,6:,7:*dans les communautés hispanophones,8:
+littérature autochtone comparée,0:littérature,1:chercheur,2:littérature autochtone,3:,4:*par le moyen de comparaison,5:,6:,7:*entre différentes cultures autochtones,8:
+littérature franco-ontarienne,0:littérature,1:écrivain franco-ontarien,2:écrire,3:,4:*par le moyen de langue française,5:,6:Ontario,7:*,8:*avec identité franco-ontarienne
+littérature québécoise,0:littérature,1:,2:écrire,3:,4:*par le moyen de langue française,5:,6:au Québec,7:,8:*pour exprimer identité québécoise
+littérature québécoise contemporaine,0:littérature,1:,2:œuvre littéraire,3:,4:*par le moyen de langue française et de culture québécoise,5:,6:*dans le contexte de l'époque contemporaine,7:,8:Québec
+littérature québécoise depuis 1970,0:littérature,1:,2:littérature québécoise,3:,4:,5:,6:*depuis 1970,7:,8:
+littérature française,0:littérature,1:,2:littérature,3:,4:,5:,6:,7:*en France,8:
+littérature occitane,0:littérature,1:,2:,3:,4:,5:*en occitanie,6:,7:,8:*issu de la culture occitane
+littérature antillaise,0:littérature,1:,2:écrire,3:,4:*par le moyen de culture antillaise,5:,6:,7:*dans les îles des Caraïbes,8:
+littérature française contemporaine,0:,1:,2:,3:,4:,5:,6:,7:,8:
+littérature post-coloniale,0:littérature,1:écrivain,2:,3:,4:,5:,6:*après colonialisme,7:,8:
+littérature anglo-québécoise,0:littérature,1:,2:littérature,3:,4:,5:,6:*au Québec,7:expression de la culture anglo-québécoise,8:*avec influence anglaise et québécoise
+littérature maghrébine,0:littérature,1:,2:écrire,3:,4:*par le moyen de culture maghrébine,5:,6:,7:*dans la région maghrébine,8:
+littérature algérienne,0:littérature,1:,2:écrire,3:,4:*par le moyen de culture algérienne,5:,6:,7:*en Algérie,8:
+littérature camerounaise,0:littérature,1:,2:littérature,3:,4:,5:,6:*au Cameroun,7:,8:
+littérature gabonaise,0:littérature,1:,2:littérature gabonaise,3:,4:,5:,6:,7:*au Gabon,8:
+littérature africaine,0:littérature,1:,2:écrire,3:,4:*par le moyen de culture africaine,5:,6:,7:*en Afrique,8:
+littérature africaine francophone,0:littérature,1:auteur africain,2:écrire,3:,4:*en langue française,5:,6:Afrique,7:*pour exprimer identité culturelle,8:*avec influence africaine
+littérature africaine-américaine,0:littérature,1:auteur africain-américain,2:écrire,3:,4:*par le moyen de langue anglaise,5:*pendant période esclavagiste et post-esclavagiste,6:Amérique du Nord,7:*pour exprimer l'expérience et la culture africaine-américaine,8:*avec influence de la culture africaine et américaine
+littérature queer,0:littérature,1:communauté LGBTQ+,2:exprimer son identité,3:,4:*par le moyen de texte littéraire,5:,6:,7:,8:
+dialogue littéraire,0:littérature,1:auteur,2:dialogue,3:,4:*par le moyen de langage littéraire,5:,6:,7:,8:
+littérature numérique,0:littérature,1:,2:texte,3:,4:*par le moyen de technique numérique,5:,6:,7:,8:
+récit de voyage,0:littérature,1:auteur,2:voyage,3:,4:,5:,6:,7:*pour partager expérience,8:*en racontant les étapes du voyage
+littérature de voyage,0:littérature,1:,2:voyage,3:,4:*par le moyen de récit de voyage,5:,6:,7:*pendant voyage,8:
+autobiographie,0:littérature,1:auteur,2:écrire,3:,4:*par le moyen de réflexion personnelle,5:,6:,7:,8:*pour se comprendre soi-même
+autofiction,0:littérature,1:auteur,2:écrire,3:,4:*par le moyen de réflexion sur soi,5:,6:,7:,8:*pour explorer son identité
+littérature-monde,0:littérature,1:,2:littérature,3:,4:,5:,6:,7:*dans le monde entier,8:
+littérature mondiale,0:littérature,1:,2:œuvre littéraire,3:,4:*issu de diverses cultures,5:,6:,7:*à travers le monde,8:
+littérature pour enfants,0:littérature,1:écrivain,2:écrire,3:,4:*par le moyen de imagination et créativité,5:,6:,7:enfants,8:*pour éduquer et divertir
+littérature jeunesse,0:littérature,1:jeune,2:auteur,3:jeune lecteur,4:*par le moyen de texte et d'images,5:,6:,7:*dans le contexte de développement de l'enfant,8:
+littérature de jeunesse,0:littérature,1:jeune lecteur,2:littérature,3:,4:*par le moyen de langage adapté,5:,6:,7:*dans le contexte de développement de l'enfant,8:
+littérature pour adolescents,0:,1:,2:,3:,4:,5:,6:,7:,8:
+littérature de jeunesse plurilingue,0:littérature,1:jeune lecteur,2:littérature,3:,4:*par le moyen de plusieurs langues,5:,6:,7:,8:*pour favoriser la compréhension interculturelle
+théâtre,0:art,1:acteur,2:jouer,3:,4:*par le moyen de représentation scénique,5:,6:,7:*dans un lieu public,8:*pour divertir et éduquer
+tragédie,0:littérature,1:,2:,3:,4:,5:*a pour thème la souffrance et la mort,6:,7:,8:
+tragique,0:littérature,1:,2:,3:,4:,5:*par le moyen de drame ou de malheur,6:,7:,8:*dans un contexte de souffrance ou de perte
+comédie,0:littérature,1:,2:,3:,4:,5:*a pour but faire rire,6:,7:,8:*dans le contexte de théâtre ou cinéma
+satire,0:littérature,1:auteur,2:critique,3:,4:*par le moyen de ironie ou humour,5:,6:,7:*pour dénoncer ou critiquer,8:poésie ou prose
+épistolaire,0:littérature,1:auteur,2:lettre,3:,4:*par le moyen de écriture,5:,6:,7:,8:*pour communiquer
+art épistolaire,0:littérature,1:écrivain,2:lettre,3:,4:*par le moyen de correspondance,5:,6:,7:,8:*pour exprimer ses pensées et émotions
+chanson,0:musique,1:chanteur,2:chanter,3:,4:par le moyen de voix ou instrument,5:,6:,7:,8:*avec mélodie et paroles
+chanson francophone,0:musique,1:chanteur,2:chanson,3:,4:*en langue française,5:,6:,7:,8:
+poésie,0:littérature,1:poète,2:exprimer son émotion,3:,4:imagination,5:,6:,7:*coloré par le sentiment,8:
+poésie québécoise,0:littérature,1:,2:poésie,3:,4:*par le moyen de langue française,5:,6:au Québec,7:,8:*pour exprimer identité culturelle
+roman historique,0:littérature,1:,2:raconter,3:,4:*par le moyen de recherche historique,5:*pendant une période historique,6:,7:,8:*pour comprendre le passé
+roman jeunesse,0:littérature,1:jeune lecteur,2:roman,3:,4:*destiné à jeune lecteur,5:,6:,7:*pour divertir et éduquer,8:*en prose avec intrigue et personnages jeunes
+roman de lecture,0:littérature,1:lecteur,2:lire,3:,4:*par le moyen de texte écrit,5:,6:,7:*dans le contexte de littérature,8:
+théorie du texte,0:,1:,2:,3:,4:,5:,6:,7:,8:
+péritexte,0:littérature,1:,2:texte,3:,4:*par le moyen de contexte,5:,6:,7:,8:*autour texte
+théorie littéraire,0:théorie,1:chercheur,2:littérature,3:,4:*par le moyen de critique et d'analyse,5:,6:,7:*dans le contexte de littérature,8:
+corpus littéraire,0:littérature,1:,2:texte,3:,4:,5:,6:,7:*dans le contexte de littérature,8:
+herméneutique,0:,1:,2:,3:,4:,5:,6:,7:,8:
+épistémologie,0:philosophie,1:philosophe,2:connaissance,3:,4:*par le moyen de réflexion critique,5:,6:,7:*dans le contexte de la connaissance,8:
+présence auctoriale,0:littérature,1:auteur,2:présence,3:,4:*par le moyen de style d'écriture,5:,6:,7:,8:*dans un texte pour montrer son identité
+identité auctoriale,0:littérature,1:auteur,2:,3:*en relation avec auteur,4:,5:,6:,7:,8:*définir son style d'écriture
+auctorialité,0:littérature,1:auteur,2:créer,3:,4:*par le moyen de style et de ton,5:,6:,7:,8:*pour exprimer son identité et son point de vue
+éditorialisation,0:communication,1:éditeur,2:contenu,3:,4:*par le moyen de publication,5:,6:,7:,8:*pour informer ou influencer
+théories de la création,0:,1:,2:,3:,4:,5:,6:,7:,8:
+théories de la conspiration,0:,1:,2:,3:,4:,5:,6:,7:,8:
+théories du complot,0:,1:,2:,3:,4:,5:,6:,7:,8:
+théories de l'écriture,0:,1:,2:,3:,4:,5:,6:,7:,8:
+poétique,0:littérature,1:,2:,3:,4:,5:*par le moyen de langage artistique,6:,7:,8:*inspiré par émotion
+sujet poétique,0:littérature,1:poète,2:exprimer son émotion,3:,4:imagination,5:,6:,7:*coloré par le sentiment poésie,8:
+théorie de l'esprit,0:,1:,2:,3:,4:,5:,6:,7:,8:
+théorie de la fiction,0:,1:,2:,3:,4:,5:,6:,7:,8:
+théorie de la littérature,0:théorie,1:chercheur,2:littérature,3:,4:,5:,6:,7:*dans le domaine de la littérature,8:
+théorie musico-littéraire,0:théorie,1:,2:musique et littérature,3:,4:,5:,6:,7:,8:
+théorie philosophique de l'image,0:,1:,2:,3:,4:,5:,6:,7:,8:
+théorie/pratique,0:,1:,2:,3:,4:,5:,6:,7:,8:
+théorie de la lecture,0:,1:,2:,3:,4:,5:,6:,7:,8:
+théories de la lecture,0:,1:,2:,3:,4:,5:,6:,7:,8:
+théorie de la traduction,0:,1:,2:,3:,4:,5:,6:,7:,8:
+théorie de la valeur,0:,1:,2:,3:,4:,5:,6:,7:,8:
+théorie des genres littéraires,0:,1:,2:,3:,4:,5:,6:,7:,8:
+théorie des jeux,0:théorie,1:économiste,2:stratégie,3:,4:*par le moyen de modélisation mathématique,5:,6:,7:,8:
+théorie du droit,0:,1:,2:,3:,4:,5:,6:,7:,8:
+théorie économique,0:théorie,1:économiste,2:étudier les phénomènes économiques,3:,4:*par le moyen de modèles et de données économiques,5:,6:,7:,8:
+théorie politique,0:,1:,2:,3:,4:,5:,6:,7:,8:
+théories du genre,0:,1:,2:,3:,4:,5:,6:,7:,8:
+théories queer,0:,1:,2:,3:,4:,5:,6:,7:,8:
+théorie queer,0:,1:,2:,3:,4:,5:,6:,7:,8:
+théorie postcoloniales,0:,1:,2:,3:,4:,5:,6:,7:,8:
+paroles,0:communication,1:locuteur,2:parole,3:,4:,5:,6:,7:*dans le contexte de conversation,8:
+prendre la parole,0:communication,1:orateur,2:discours,3:,4:*par le moyen de voix ou d'écriture,5:,6:,7:,8:
+entretien,0:action,1:individu,2:conversation,3:,4:parle,5:,6:,7:*pour échange d'information ou de connaissance,8:*de manière interactive
+débat,0:discussion,1:participant,2:argument,3:,4:*par le moyen de parole,5:,6:,7:,8:*pour convaincre ou échanger des idées
+français parlé,0:langue,1:locuteur,2:français,3:,4:,5:,6:,7:*dans conversation,8:*pour communiquer
+francophonie,0:langue,1:~plusieurs pays francophone,2:,3:,4:*en relation avec langue française,5:,6:,7:,8:*pour promotion de la langue française
+francophone,0:langue,1:locuteur,2:français,3:,4:,5:*par le moyen de langue française,6:,7:,8:
+francophonie minoritaire,0:langue,1:minorité,2:francophonie,3:,4:*par le moyen de langue française,5:,6:,7:*dans les communautés minoritaires,8:
+franglais,0:langue,1:,2:mélange de français et anglais,3:,4:*par le moyen de mélange de deux langues,5:,6:,7:,8:*dans le contexte de langue française influencée par l'anglais
+langues minoritaires,0:langue,1:minorité,2:langue,3:,4:,5:*par le moyen de parler minoritaire,6:,7:,8:
+langue étrangère,0:langue,1:,2:,3:,4:,5:*par le moyen de apprentissage,6:,7:,8:*dans un pays autre que le sien
+contact des langues,0:linguistique,1:locuteur,2:langue,3:,4:*par le moyen de communication,5:,6:,7:,8:*dans le contexte de rencontre entre langues
+énonciation,0:linguistique,1:locuteur,2:énoncer,3:auditeur,4:par le moyen de langage,5:,6:,7:*dans le contexte de communication,8:*avec intention de signifier
+performativité,0:théorie,1:,2:action,3:,4:*par le moyen de langage,5:,6:,7:,8:*créer une réalité
+discours,0:communication,1:orateur,2:parole,3:,4:*par le moyen de langage,5:,6:,7:,8:
+fonctions discursives,0:linguistique,1:locuteur,2:communiquer,3:auditeur,4:par le moyen de langage,5:,6:,7:,8:*pour transmettre information et influencer l'audience
+sociolinguistique,0:linguistique,1:linguiste,2:langue,3:,4:*par le moyen de société et de culture,5:,6:,7:*pour comprendre les relations entre langue et société,8:*en étudiant les interactions entre les locuteurs et leur environnement
+variation sociolinguistique,0:sociolinguistique,1:locuteur,2:langue,3:,4:*influencé par facteur social,5:,6:,7:*dans une communauté linguistique,8:
+variation diachronique,0:linguistique,1:linguiste,2:langue,3:,4:*à travers le temps,5:,6:,7:*pour étudier l'évolution,8:*avec méthode diachronique
+variation régionale,0:géographie,1:~plusieurs région,2:,3:,4:*en relation avec différence régionale,5:,6:,7:,8:*dans le contexte de diversité régionale
+linguistique appliquée,0:linguistique,1:,2:langue,3:,4:*par le moyen de méthode scientifique,5:,6:,7:,8:
+transferts linguistiques,0:linguistique,1:,2:langue,3:,4:*par le moyen de communication,5:,6:,7:,8:*dans le contexte de langue cible et langue source
+rythme phonétique,0:linguistique,1:locuteur,2:rythme,3:,4:*par le moyen de phonétique,5:,6:,7:,8:*pour communiquer avec efficacité
+phonétique acoustique,0:linguistique,1:linguiste,2:son,3:,4:*par le moyen de méthode scientifique,5:,6:,7:,8:*pour étudier les sons de la parole
+synchronie dynamique,0:théorie,1:,2:synchronie,3:,4:*par le moyen de changement dynamique,5:,6:,7:*dans le contexte de système en mouvement,8:
+cinéma,0:art,1:~plusieurs réalisateur,2:~plusieurs image,3:,4:*est une espèce de art,5:,6:,7:,8:*par le moyen de caméra et de technique cinématographique
+film,0:art,1:~plusieurs réalisateur,2:créer,3:,4:*par le moyen de caméra et technique cinématographique,5:,6:,7:,8:
+distribution cinématographique,0:industrie cinématographique,1:distributeurs,2:film,3:,4:*par le moyen de réseaux de distribution,5:,6:,7:gagner de l'argent,8:*en faisant connaître le film au public
+documentaire,0:cinéma,1:,2:présenter des faits,3:,4:*par le moyen de footage et d'entretiens,5:,6:,7:,8:*pour informer et éduquer
+cinéma québécois,0:cinéma,1:~plusieurs réalisateur québécois,2:,3:,4:*est une espèce de cinéma,5:,6:,7:*au Québec,8:
+film québécois,0:cinéma,1:,2:film,3:,4:*produit au Québec,5:,6:,7:,8:
+film historique,0:cinéma,1:,2:,3:,4:,5:*représente un événement historique,6:,7:,8:*dans le but d'informer ou de divertir
+cinéma populaire,0:cinéma,1:grand public,2:divertir,3:,4:*par le moyen de film,5:,6:,7:*dans le but de divertir,8:*avec des thèmes accessibles
+cinéma de banlieue,0:cinéma,1:,2:,3:,4:,5:*dans banlieue,6:,7:,8:
+cinéma expérimental,0:cinéma,1:artiste,2:cinéma,3:,4:*par le moyen de méthode expérimentale,5:,6:,7:,8:
+cinéma autochtone,0:cinéma,1:peuple autochtone,2:créer,3:,4:*par le moyen de technique cinématographique,5:,6:,7:,8:
+cinéma des premières nations,0:cinéma,1:peuples autochtones,2:raconter leur histoire,3:,4:*par le moyen de cinéma,5:,6:,7:,8:*pour préserver leur culture et partager leurs expériences
+cinéma de femmes,0:cinéma,1:femme,2:créer,3:,4:*par le moyen de réalisation cinématographique,5:,6:,7:,8:
+cinéma des femmes,0:cinéma,1:femme,2:créer,3:,4:*par le moyen de réalisation cinématographique,5:,6:,7:,8:
+cinéma gouvernemental,0:cinéma,1:gouvernement,2:produire,3:,4:*par le moyen de financement gouvernemental,5:,6:,7:,8:
+cinéma politique,0:cinéma,1:politicien,2:exprimer son opinion,3:,4:*par le moyen de film,5:,6:,7:,8:
+cinéma d'animation,0:cinéma,1:,2:,3:,4:*par le moyen de technique d'animation,5:,6:,7:,8:*pour divertir
+cinéma de genre,0:cinéma,1:,2:film,3:,4:*par le moyen de genre cinématographique,5:,6:,7:,8:*pour divertir ou éduquer
+cinéma et religion,0:cinéma,1:realisateur,2:religion,3:,4:*par le moyen de film,5:,6:,7:*pour explorer les croyances,8:
+cinéma et les autres arts,0:art,1:,2:cinéma,3:,4:*en relation avec les autres arts,5:,6:,7:,8:*pour divertissement et expression artistique
+cinéma amateur,0:cinéma,1:amateur,2:film,3:,4:*par le moyen de matériel personnel,5:,6:,7:loisir,8:*sans but commercial
+cinéphile,0:cinéma,1:amateur de cinéma,2:apprécier le cinéma,3:,4:*par le moyen de regarder des films,5:,6:,7:,8:
+cinéphilie,0:cinéma,1:cinéphile,2:aimer,3:,4:*par le moyen de cinéma,5:,6:,7:,8:*pour plaisir
+art conceptuel,0:art,1:,2:concept,3:,4:,5:,6:,7:*par le moyen de idée,8:
+art vidéo,0:art,1:,2:créer,3:,4:*par le moyen de vidéo,5:,6:,7:,8:*avec technique numérique
+arts plastiques et multimédia,0:art,1:~plusieurs artiste,2:créer,3:,4:*par le moyen de matériau et technologie multimédia,5:,6:,7:,8:
+art technique,0:art,1:,2:technique,3:,4:,5:,6:,7:*par le moyen de compétence technique,8:
+art technologique,0:art,1:,2:créer,3:,4:*par le moyen de technologie,5:,6:,7:,8:*avec innovation
+art numérique,0:art,1:,2:créer,3:,4:*par le moyen de technologie numérique,5:,6:,7:,8:
+art de la marionette,0:art,1:marionnettiste,2:manipuler marionnette,3:,4:*par le moyen de fil ou main,5:,6:,7:,8:*pour divertir ou éduquer
+art visuel,0:art,1:,2:créer,3:,4:*par le moyen de visuel,5:,6:,7:,8:*avec imagination
+arts et lettres,0:art et littérature,1:,2:créer,3:,4:*par le moyen de technique artistique et littéraire,5:,6:,7:,8:
+art contemporain,0:art,1:,2:créer,3:,4:*par le moyen de technique moderne et numérique,5:*depuis la fin du 20e siècle,6:,7:,8:*pour exprimer la réalité contemporaine
+art engagé,0:art,1:artiste,2:créer,3:,4:*par le moyen de message politique ou social,5:,6:,7:*pour sensibiliser ou critiquer,8:expression poétique ou visuelle
+champ artistique,0:art,1:,2:créer,3:,4:*par le moyen de technique artistique,5:,6:,7:,8:*avec imagination
+bande dessinée,0:art,1:artiste,2:dessiner,3:,4:*par le moyen de dessin et texte,5:,6:,7:*dans le contexte de récit visuel,8:*pour divertir
+bande dessinée québécoise,0:littérature,1:,2:dessiner,3:,4:*par le moyen de dessin et texte,5:,6:,7:*au Québec,8:
+bande dessinée albertaine,0:littérature,1:,2:,3:,4:,5:*en lien avec l'Alberta,6:,7:,8:*avec dessin et texte
+bande dessinée scientifique,0:littérature,1:scientifique,2:bande dessinée,3:,4:*par le moyen de recherche scientifique,5:,6:,7:,8:
+bande dessinée féministe,0:littérature,1:,2:bande dessinée,3:,4:*a pour thème féminisme,5:,6:,7:,8:*pour promouvoir l'égalité des sexes
+éducation,0:enseignement,1:éducateur,2:apprentissage,3:élève,4:par le moyen de pédagogie,5:pendant enfance et adolescence,6:à l'école,7:pour acquérir des connaissances et compétences,8:avec méthode et patience
+apprentissage de la lecture,0:apprentissage,1:élève,2:lire,3:,4:*par le moyen de méthode pédagogique,5:,6:,7:,8:
+apprentissage en lisant,0:apprentissage,1:apprenant,2:lire,3:,4:*par le moyen de lecture,5:,6:,7:,8:
+apprentissage par la lecture,0:apprentissage,1:élève,2:lire,3:,4:*par le moyen de lecture,5:,6:,7:,8:
+acquisition,0:,1:,2:,3:,4:,5:,6:,7:,8:
+apprentissage par ordinateur,0:apprentissage,1:apprenant,2:connaissances,3:,4:*par le moyen de ordinateur,5:,6:,7:,8:
+apprentissage scolaire,0:apprentissage,1:élève,2:connaissance,3:,4:*par le moyen de méthode pédagogique,5:,6:*dans école,7:,8:
+apprentissage littéraire,0:apprentissage,1:élève,2:littérature,3:,4:,5:,6:,7:*dans le contexte de littérature,8:
+apprentissage auto-régulé,0:apprentissage,1:apprenant,2:apprendre,3:soi-même,4:*par le moyen de régulation personnelle,5:,6:,7:,8:
+L2 acquisition,0:apprentissage,1:apprenant,2:langue,3:,4:*par le moyen de pratique et d'immersion,5:,6:,7:*dans le contexte de maîtrise d'une seconde langue,8:
+apprentissage français langue seconde,0:apprentissage,1:apprenant,2:langue française,3:,4:*par le moyen de méthode d'enseignement,5:,6:,7:*dans le contexte de langue seconde,8:
+acquisition d'une langue première,0:apprentissage,1:apprenant,2:langue,3:,4:,5:,6:,7:*dès la naissance,8:
+acquisition des langues,0:apprentissage,1:apprenant,2:langue,3:,4:*par le moyen de pratique et d'immersion,5:,6:,7:*dans le contexte de maîtrise d'une langue,8:
+apprentissage du français,0:apprentissage,1:apprenant,2:langue française,3:apprenant,4:par le moyen de méthode pédagogique et de pratique régulière,5:pendant le processus d'apprentissage,6:à l'école ou en auto-apprentissage,7:pour améliorer les compétences linguistiques,8:avec l'aide d'un enseignant ou de ressources pédagogiques
+stratégies d'apprentissage,0:apprentissage,1:apprenant,2:apprendre,3:,4:*par le moyen de méthode et de planification,5:,6:,7:,8:
+salle de classe,0:lieu,1:élève et enseignant,2:apprentissage,3:,4:*par le moyen de enseignement,5:,6:,7:,8:*dans école
+enseignement et apprentissage d'une langue seconde/étrangère,0:enseignement,1:professeur,2:langue seconde/étrangère,3:apprenant,4:par le moyen de méthode pédagogique et de ressources linguistiques,5:pendant le processus d'apprentissage,6:dans un contexte éducatif ou linguistique,7:pour améliorer les compétences linguistiques et culturelles,8:avec une approche interactive et personnalisée
+enseignement et apprentissage,0:,1:,2:,3:,4:,5:,6:,7:,8:
+enseignement-apprentissage,0:enseignement,1:enseignant,2:connaissances,3:apprenant,4:par le moyen de méthode pédagogique,5:pendant le processus d'enseignement,6:à l'école,7:pour acquérir des compétences,8:avec interaction entre enseignant et apprenant
+enseignement/apprentissage,0:,1:,2:,3:,4:,5:,6:,7:,8:
+enseignement-apprentissage par les tâches,0:,1:,2:,3:,4:,5:,6:,7:,8:
+enseignement et apprentissage (processus et méthodologie),0:enseignement,1:enseignant,2:apprentissage,3:étudiant,4:par le moyen de méthodologie et processus,5:période scolaire,6:école,7:pour acquisition de connaissances,8:avec pédagogie et évaluation
+enseignement/apprentissage de l'histoire,0:enseignement,1:professeur,2:histoire,3:élève,4:par le moyen de méthode pédagogique,5:pendant l'éducation,6:à l'école,7:pour comprendre le passé,8:avec des ressources pédagogiques
+contrat didactique,0:enseignement,1:enseignant,2:apprentissage,3:élève,4:par accord,5:,6:,7:*dans le contexte de formation,8:*pour faciliter l'apprentissage
+enseignement en ligne,0:,1:,2:,3:,4:,5:,6:,7:,8:
+outil pédagogique,0:,1:,2:,3:,4:,5:,6:,7:,8:
+enseignant de géographie,0:enseignement,1:enseignant,2:géographie,3:élève,4:par le moyen de méthodes pédagogiques,5:,6:école,7:,8:transmettre des connaissances sur l'espace géographique
+enseignant designer,0:,1:,2:,3:,4:,5:,6:,7:,8:
+enseignants de français,0:,1:,2:,3:,4:,5:,6:,7:,8:
+enseignement de l'écriture,0:,1:,2:,3:,4:,5:,6:,7:,8:
+enseignement de l'histoire,0:enseignement,1:professeur d'histoire,2:histoire,3:,4:*par le moyen de méthode pédagogique,5:,6:,7:,8:
+enseignement de l'histoire au secondaire,0:enseignement,1:professeur,2:histoire,3:élève,4:par le moyen de méthode pédagogique,5:pendant les années de formation secondaire,6:à l'école secondaire,7:pour comprendre le passé et son influence sur le présent,8:avec des approches pédagogiques variées
+enseignement de l'occitan,0:,1:,2:,3:,4:,5:,6:,7:,8:
+enseignement de la compréhension orale,0:enseignement,1:professeur,2:compréhension orale,3:élève,4:par le moyen de méthode pédagogique,5:,6:,7:,8:
+enseignement de la littérature numérique,0:enseignement,1:,2:littérature,3:,4:*par le moyen de technique numérique,5:,6:,7:,8:
+enseignement des arts,0:enseignement,1:professeur,2:art,3:,4:*par le moyen de pédagogie,5:,6:,7:,8:*pour développer la créativité
+enseignement des arts et du français,0:enseignement,1:professeur,2:arts et français,3:élèves,4:par le moyen de méthodes pédagogiques innovantes,5:pendant l'année scolaire,6:à l'école,7:pour développer les compétences artistiques et linguistiques,8:*avec créativité et interaction
+enseignement des arts plastiques,0:,1:,2:,3:,4:,5:,6:,7:,8:
+enseignement des langues indigènes,0:enseignement,1:éducateur,2:langue indigène,3:communauté autochtone,4:*par le moyen de pédagogie adaptée,5:,6:,7:,8:
+enseignement des langues par la tâche,0:,1:,2:,3:,4:,5:,6:,7:,8:
+enseignement explicite,0:,1:,2:,3:,4:,5:,6:,7:,8:
+enseignement explicite de la variation,0:enseignement,1:professeur,2:variation linguistique,3:élèves,4:par explication directe et méthodique,5:pendant les cours de langue,6:à l'école,7:pour améliorer la compréhension et l'expression linguistique,8:avec des exemples concrets et des exercices pratiques
+enseignement individualisé,0:,1:,2:,3:,4:,5:,6:,7:,8:
+enseignement primaire,0:,1:,2:,3:,4:,5:,6:,7:,8:
+enseignement supérieur,0:enseignement,1:étudiant,2:connaissance,3:,4:*par le moyen de recherche universitaire,5:,6:,7:*dans université,8:
+enseignements artistiques et culturels,0:enseignement,1:professeur,2:art et culture,3:,4:*par le moyen de méthode pédagogique,5:,6:,7:,8:
+enseignement à distance et en milieu pluriethnique et plurilingue,0:enseignement,1:professeur,2:transmettre connaissance,3:élève,4:par le moyen de technologie et dans un contexte multiculturel et multilingue,5:,6:,7:*dans un environnement virtuel et diversifié,8:
+didactique,0:enseignement,1:enseignant,2:transmettre connaissance,3:,4:*par le moyen de méthode pédagogique,5:,6:,7:,8:
+séquences didactiques,0:enseignement,1:professeur,2:apprentissage,3:,4:*par le moyen de séquences pédagogiques,5:,6:,7:,8:
+didactique de l'art,0:enseignement,1:,2:art,3:,4:,5:,6:,7:*par le moyen de méthode pédagogique,8:
+didactique de l'écrit,0:enseignement,1:,2:écrit,3:,4:,5:,6:,7:*avec méthode,8:*pour apprendre à écrire
+didactique de l'histoire,0:enseignement,1:,2:histoire,3:,4:,5:,6:,7:,8:
+didactique de la géographie,0:enseignement,1:,2:géographie,3:,4:,5:,6:,7:*dans le contexte de formation scolaire,8:
+didactique de la lecture et de l'écriture,0:enseignement,1:professeur,2:lire et écrire,3:élèves,4:*par le moyen de méthode pédagogique,5:,6:,7:,8:
+didactique des arts plastiques,0:enseignement,1:professeur,2:arts plastiques,3:élève,4:par le moyen de méthodes pédagogiques,5:,6:,7:,8:
+didactique du français,0:,1:,2:,3:,4:,5:,6:,7:,8:
+didactique du français oral,0:,1:,2:,3:,4:,5:,6:,7:,8:
+didactisation de la littérature numérique,0:enseignement,1:,2:littérature numérique,3:,4:,5:,6:,7:*par le moyen de technique numérique et pédagogie,8:
+dispositif didactique,0:,1:,2:,3:,4:,5:,6:,7:,8:
+conception de manuel didactique,0:création,1:concepteur,2:manuel didactique,3:,4:*par le moyen de méthode pédagogique,5:,6:,7:,8:
+frontière,0:géographie,1:~plusieurs pays,2:limite,3:,4:*par le moyen de traité,5:,6:,7:,8:*pour délimiter territoire
+géographie,0:science,1:~plusieurs géographe,2:étudier la terre,3:,4:*par le moyen de cartes et de techniques de mesure,5:,6:,7:,8:*pour comprendre les relations entre les lieux et les sociétés
+lieux,0:espace,1:,2:,3:,4:,5:*dans un endroit,6:,7:,8:
+délocalisation,0:économie,1:entreprise,2:activité,3:,4:*par le moyen de relocalisation,5:,6:,7:*dans un autre pays,8:
+territoire,0:lieu,1:,2:,3:,4:,5:*délimité par frontière,6:,7:,8:
+transport,0:déplacement,1:~plusieurs personne ou objet,2:,3:,4:*en relation avec déplacement,5:,6:,7:,8:
+exil,0:condition humaine,1:individu,2:partir,3:,4:*en raison de conflit ou persécution,5:,6:,7:*dans un pays étranger,8:
+quartier,0:lieu,1:,2:,3:,4:,5:,6:*dans ville,7:,8:
+processus de création,0:création,1:artiste,2:créer,3:œuvre,4:imagination,5:pendant création,6:dans un atelier,7:exprimer son émotion,8:avec inspiration
+création littéraire,0:littérature,1:écrivain,2:créer,3:,4:*par le moyen de imagination et d'expression écrite,5:,6:,7:,8:
+création poétique,0:création,1:poète,2:créer,3:auteur,4:imagination,5:,6:,7:*inspiré par émotion,8:poésie
+cocréation,0:création,1:plusieurs acteur,2:créer,3:,4:*par le moyen de collaboration,5:,6:,7:,8:*ensemble
+créativité,0:création,1:artiste,2:créer,3:,4:imagination,5:,6:,7:*pour exprimer son émotion,8:*avec originalité
+la lecture créative,0:lecture,1:lecteur,2:lire,3:,4:*par le moyen de créativité,5:,6:,7:,8:
+écriture,0:,1:,2:,3:,4:,5:,6:,7:,8:
+co-écriture,0:création,1:,2:écrire,3:,4:*par le moyen de collaboration,5:,6:,7:,8:*avec plusieurs auteur
+cinéécriture,0:création,1:,2:écrire,3:,4:*par le moyen de cinéma et écriture,5:,6:,7:,8:*créer un scénario ou un dialogue pour un film
+processus d'écriture,0:création,1:écrivain,2:écrire,3:,4:*par le moyen de technique d'écriture,5:,6:,7:,8:
+scénarisation,0:création,1:scénariste,2:scénario,3:,4:*par le moyen de processus d'écriture,5:,6:,7:,8:
+scène d'écriture,0:création,1:écrivain,2:écrire,3:,4:*par le moyen de processus d'écriture,5:,6:,7:,8:
+communauté,0:société,1:~plusieurs individu,2:,3:,4:*en relation avec lien social,5:,6:,7:,8:
+communauté autochtone,0:société,1:~plusieurs peuple autochtone,2:,3:,4:*en relation avec terre ancestrale,5:,6:,7:,8:*pour préserver identité culturelle
+positionnement social,0:société,1:individu,2:position,3:,4:*par le moyen de statut social,5:,6:,7:*dans une communauté,8:
+esprit de communauté,0:société,1:communauté,2:esprit,3:,4:*par le moyen de lien social,5:,6:,7:*dans le contexte de vie collective,8:
+représentations sociales,0:sociologie,1:individu,2:représentation,3:,4:*par le moyen de perception et de croyance,5:,6:,7:*dans un contexte social,8:
+relationnalité,0:théorie,1:,2:relation,3:,4:,5:,6:,7:*entre plusieurs entité,8:
+communs,0:connaissance,1:~plusieurs personne,2:connaissance,3:,4:*partagé par ~plusieurs personne,5:,6:,7:,8:
+commons,0:ressource,1:communauté,2:partage,3:,4:*par le moyen de collaboration,5:,6:,7:,8:*pour mutualisation
+marginalité,0:,1:,2:,3:,4:,5:,6:,7:,8:
+politique,0:politique,1:parti politique ou gouvernement,2:,3:*en relation avec pouvoir,4:,5:,6:,7:,8:*dans le but de diriger ou de gérer
+pouvoir,0:politique,1:dirigeant,2:contrôle,3:,4:*par le moyen de force ou d'influence,5:,6:,7:,8:*pour maintenir l'ordre ou atteindre un objectif
+régime autoritaire,0:politique,1:gouvernement,2:contrôle,3:,4:*par le moyen de pouvoir absolu,5:,6:,7:*dans un contexte de restriction des libertés,8:
+démocratie,0:politique,1:citoyen,2:gouverner,3:,4:*par le moyen de vote,5:,6:,7:,8:*pour liberté
+explosion démocratique,0:politique,1:mouvements socio-politiques,2:démocratisation,3:,4:*par le moyen de changement radical,5:,6:,7:*dans un contexte de gouvernance,8:
+agentivité,0:philosophie,1:individu,2:action,3:,4:*par le moyen de capacité d'agir,5:,6:,7:,8:
+décolonisation,0:politique,1:pays colonisé,2:indépendance,3:puissance coloniale,4:*par le moyen de lutte pour l'indépendance,5:*après colonisation,6:*dans les pays colonisés,7:*pour liberté et autonomie,8:*avec résistance et négociation
+discours militants,0:politique,1:militant,2:exprimer son opinion,3:,4:*par le moyen de parole ou écrit,5:,6:,7:engagement,8:*avec conviction et détermination
+engagement politique,0:politique,1:citoyen,2:engager,3:,4:*par le moyen de participation,5:,6:,7:*pour changer société,8:*avec conviction
+voix de femmes,0:littérature,1:femme,2:exprimer son émotion,3:,4:*par le moyen de parole,5:,6:,7:,8:*pour faire entendre son point de vue
+féminisme,0:politique,1:mouvements socio-politiques,2:,3:*en relation avec femme,4:,5:,6:,7:,8:*pour égalité des sexes
+méthode,0:méthode,1:,2:procédure,3:,4:*par le moyen de règle ou de principe,5:,6:,7:,8:
+méthodes,0:méthode,1:,2:façon de faire,3:,4:*par le moyen de démarche scientifique,5:,6:,7:,8:
+méthodologie,0:méthode,1:,2:recherche,3:,4:*par le moyen de méthode,5:,6:,7:,8:*pour atteindre objectif de recherche
+méthodes créatives,0:méthode,1:,2:créer,3:,4:*par le moyen de imagination et innovation,5:,6:,7:,8:
+méthodes visuelles,0:méthode,1:,2:,3:,4:*par le moyen de visuel,5:,6:,7:,8:*avec image
+analyse de discours,0:linguistique,1:analyste,2:langage,3:,4:*par le moyen de méthode d'analyse,5:,6:,7:comprendre le sens et la structure du discours,8:
+recherche-création,0:création,1:artiste,2:rechercher,3:,4:*par le moyen de processus créatif,5:,6:,7:,8:
+recherche-développement,0:innovation,1:entreprise,2:recherche,3:,4:*par le moyen de développement,5:,6:,7:progrès,8:*avec méthode scientifique
+expérience sur le terrain,0:expérience,1:rechercheur,2:expérimenter,3:terrain,4:,5:*dans un contexte réel,6:*par le moyen de méthode scientifique,7:,8:
+ethnographie,0:recherche,1:chercheur,2:étudier,3:,4:*par le moyen de méthode ethnographique,5:,6:,7:,8:
+quantificateurs,0:logique,1:,2:quantifier,3:,4:*par le moyen de symbole mathématique,5:,6:,7:,8:
+lecture,0:activité intellectuelle,1:lecteur,2:lire,3:,4:*par le moyen de texte,5:,6:,7:,8:*pour comprendre
+compétence à lire,0:compétence,1:lecteur,2:lire,3:,4:*par le moyen de compréhension,5:,6:,7:,8:*dans le but de comprendre le texte
+compétence culturelle,0:,1:,2:,3:,4:,5:,6:,7:,8:
+compétence interculturelle,0:compétence,1:individu,2:comprendre et interagir,3:,4:*en relation avec différentes cultures,5:,6:,7:,8:*dans un contexte multiculturel
+compétence de communication,0:,1:,2:,3:,4:,5:,6:,7:,8:
+compétences informationnelles,0:compétence,1:utilisateur,2:information,3:,4:*par le moyen de technologie de l'information et de la communication,5:,6:,7:,8:
+compétence langagière à communiquer,0:compétence,1:individu,2:communiquer,3:autrui,4:par le moyen de langage,5:,6:,7:,8:*de manière efficace
+compétence sociolinguistique,0:,1:,2:,3:,4:,5:,6:,7:,8:
+littératie,0:compétence,1:individu,2:lire et écrire,3:,4:*par le moyen de pratique et d'apprentissage,5:,6:,7:,8:
+compétences rédactionnelles,0:compétence,1:,2:rédiger,3:,4:*par le moyen de technique d'écriture,5:,6:,7:,8:
+littératie médiatique multimodale,0:communication,1:apprenant,2:comprendre et créer des messages,3:,4:*en relation avec média et multimodalité,5:,6:,7:,8:*par le moyen de divers médias et modes de communication
+littéracie médiatique,0:compétence,1:individu,2:comprendre et utiliser les médias,3:,4:*par le moyen de médias,5:,6:,7:,8:*pour une meilleure compréhension de l'information
+littéracie multimodale,0:compétence,1:,2:comprendre,3:,4:*par le moyen de plusieurs mode de communication,5:,6:,7:,8:
+compétences multimodales en réception,0:compétence,1:apprenant,2:réception,3:,4:*par le moyen de plusieurs mode de communication,5:,6:,7:,8:
+littéracie audiovisuelle,0:compétence,1:individu,2:comprendre et créer des contenus audiovisuels,3:,4:,5:*par le moyen de médias audiovisuels,6:,7:,8:
+littéracie communautaire,0:compétence,1:communauté,2:lire et écrire,3:,4:*par le moyen de pratique communautaire,5:,6:,7:,8:
+littéracie disciplinaire,0:compétence,1:apprenant,2:littéracie,3:,4:*par le moyen de discipline scolaire,5:,6:,7:,8:
+littéracie historique,0:compétence,1:,2:comprendre,3:,4:*par le moyen de connaissance historique,5:,6:,7:,8:
+littéracie illustrée,0:compétence,1:,2:lire,3:,4:*par le moyen de support visuel,5:,6:,7:,8:
+littératie visuelle,0:compétence,1:apprenant,2:comprendre,3:,4:*par le moyen de média visuel,5:,6:,7:,8:
+littératie visuelle numérique,0:compétence,1:,2:comprendre,3:,4:*par le moyen de technique numérique et visuelle,5:,6:,7:,8:
+littératies locales,0:littérature,1:communauté locale,2:littératie,3:,4:*par le moyen de pratique locale,5:,6:,7:*dans le contexte de communauté locale,8:
+littératies multiples,0:,1:,2:,3:,4:,5:,6:,7:,8:
+compétence numérique,0:compétence,1:utilisateur,2:informatique,3:,4:*par le moyen de technologie numérique,5:,6:,7:,8:
+littératie numérique,0:compétence,1:utilisateur,2:comprendre et utiliser les technologies numériques,3:,4:,5:*par le moyen de technologie numérique,6:,7:,8:
+pratique théâtrale,0:théâtre,1:acteur,2:jouer,3:,4:*par le moyen de scène et de texte,5:,6:,7:*dans le contexte de représentation,8:expression et divertissement
+mesures rythmiques,0:musique,1:musicien,2:mesurer,3:,4:*par le moyen de rythme,5:,6:,7:,8:*pour créer harmonie
+lumières,0:physique,1:~personne,2:éclairer,3:,4:*par le moyen de lumière,5:,6:,7:,8:*avec électricité
+collection,0:rassembler,1:collecteur,2:objet,3:,4:*par le moyen de regroupement,5:,6:,7:,8:

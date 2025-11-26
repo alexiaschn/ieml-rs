@@ -1,0 +1,142 @@
+[
+  {
+    "rank": 1,
+    "score": 0.9753708839416504,
+    "id": 37,
+    "word": "influencer",
+    "page-title": "Causatives"
+  },
+  {
+    "rank": 2,
+    "score": 0.9245632290840149,
+    "id": 138,
+    "word": "ambassadeur",
+    "page-title": "Social roles & institutions"
+  },
+  {
+    "rank": 3,
+    "score": 0.9188717007637024,
+    "id": 124,
+    "word": "investisseur",
+    "page-title": "Social roles & institutions"
+  },
+  {
+    "rank": 4,
+    "score": 0.9180980920791626,
+    "id": 165,
+    "word": "idole",
+    "page-title": "Technical functions"
+  },
+  {
+    "rank": 5,
+    "score": 0.9172593355178833,
+    "id": 250,
+    "word": "journaliste",
+    "page-title": "Social roles & institutions"
+  },
+  {
+    "rank": 6,
+    "score": 0.9141272306442261,
+    "id": 17,
+    "word": "réseaux sociaux",
+    "page-title": "Collective intelligence hexad"
+  },
+  {
+    "rank": 7,
+    "score": 0.9140669107437134,
+    "id": 62,
+    "word": "manipulateur",
+    "page-title": "Obstacles"
+  },
+  {
+    "rank": 8,
+    "score": 0.9138487577438354,
+    "id": 102,
+    "word": "emprunter",
+    "page-title": "Performative acts"
+  },
+  {
+    "rank": 9,
+    "score": 0.9121896028518677,
+    "id": 67,
+    "word": "activiste",
+    "page-title": "Social roles & institutions"
+  },
+  {
+    "rank": 10,
+    "score": 0.9116755723953247,
+    "id": 46,
+    "word": "innovateur",
+    "page-title": "Social roles & institutions"
+  },
+  {
+    "rank": 11,
+    "score": 0.9096865057945251,
+    "id": 291,
+    "word": "réseau social",
+    "page-title": "Disciplines & their objects"
+  },
+  {
+    "rank": 12,
+    "score": 0.9091653823852539,
+    "id": 140,
+    "word": "être ambassadeur",
+    "page-title": "Social roles & institutions"
+  },
+  {
+    "rank": 13,
+    "score": 0.9085900187492371,
+    "id": 5,
+    "word": "inspiré",
+    "page-title": "Values"
+  },
+  {
+    "rank": 14,
+    "score": 0.9075779318809509,
+    "id": 10,
+    "word": "modèle",
+    "page-title": "Rational inquiry"
+  },
+  {
+    "rank": 15,
+    "score": 0.9066889882087708,
+    "id": 112,
+    "word": "magasin",
+    "page-title": "Technical functions"
+  },
+  {
+    "rank": 16,
+    "score": 0.9066770076751709,
+    "id": 177,
+    "word": "pourvoyeur",
+    "page-title": "Social roles & institutions"
+  },
+  {
+    "rank": 17,
+    "score": 0.9066328406333923,
+    "id": 56,
+    "word": "auteur",
+    "page-title": "Social roles & institutions"
+  },
+  {
+    "rank": 18,
+    "score": 0.906356692314148,
+    "id": 23,
+    "word": "émis",
+    "page-title": "Technical functions"
+  },
+  {
+    "rank": 19,
+    "score": 0.9060394763946533,
+    "id": 173,
+    "word": "vendeur",
+    "page-title": "Social roles & institutions"
+  },
+  {
+    "rank": 20,
+    "score": 0.9056345224380493,
+    "id": 15,
+    "word": " annoncer",
+    "page-title": "Inflections for verbs"
+  }
+]

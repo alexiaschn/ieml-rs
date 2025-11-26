@@ -1,0 +1,142 @@
+[
+  {
+    "rank": 1,
+    "score": 1.0,
+    "id": 17,
+    "word": "réception",
+    "page-title": "Physical movement & action"
+  },
+  {
+    "rank": 2,
+    "score": 0.9640451073646545,
+    "id": 16,
+    "word": "recevoir",
+    "page-title": "Physical movement & action"
+  },
+  {
+    "rank": 3,
+    "score": 0.9599482417106628,
+    "id": 344,
+    "word": "accueil",
+    "page-title": "Social roles & institutions"
+  },
+  {
+    "rank": 4,
+    "score": 0.949935793876648,
+    "id": 346,
+    "word": "accueillir",
+    "page-title": "Social roles & institutions"
+  },
+  {
+    "rank": 5,
+    "score": 0.9440536499023438,
+    "id": 75,
+    "word": "arrivée",
+    "page-title": "Positions & objects in space"
+  },
+  {
+    "rank": 6,
+    "score": 0.940291166305542,
+    "id": 69,
+    "word": "entrée",
+    "page-title": "Positions & objects in space"
+  },
+  {
+    "rank": 7,
+    "score": 0.939749002456665,
+    "id": 54,
+    "word": "livraison",
+    "page-title": "Performative acts"
+  },
+  {
+    "rank": 8,
+    "score": 0.9382241368293762,
+    "id": 345,
+    "word": "hospitalité",
+    "page-title": "Social roles & institutions"
+  },
+  {
+    "rank": 9,
+    "score": 0.9329254627227783,
+    "id": 24,
+    "word": "prise",
+    "page-title": "Physical movement & action"
+  },
+  {
+    "rank": 10,
+    "score": 0.9316693544387817,
+    "id": 19,
+    "word": "envoi",
+    "page-title": "Physical movement & action"
+  },
+  {
+    "rank": 11,
+    "score": 0.9315510988235474,
+    "id": 78,
+    "word": "appréciation",
+    "page-title": "Complex feelings"
+  },
+  {
+    "rank": 12,
+    "score": 0.9312472343444824,
+    "id": 73,
+    "word": "départ",
+    "page-title": "Positions & objects in space"
+  },
+  {
+    "rank": 13,
+    "score": 0.9310503602027893,
+    "id": 348,
+    "word": "accueillant",
+    "page-title": "Social roles & institutions"
+  },
+  {
+    "rank": 14,
+    "score": 0.9301056861877441,
+    "id": 145,
+    "word": "succès",
+    "page-title": "Noetic categories"
+  },
+  {
+    "rank": 15,
+    "score": 0.9299868941307068,
+    "id": 90,
+    "word": "présence",
+    "page-title": "Gradients"
+  },
+  {
+    "rank": 16,
+    "score": 0.9284619092941284,
+    "id": 3,
+    "word": "fête",
+    "page-title": "Life cycles"
+  },
+  {
+    "rank": 17,
+    "score": 0.9275307655334473,
+    "id": 35,
+    "word": "envoyé",
+    "page-title": "Actions & agents"
+  },
+  {
+    "rank": 18,
+    "score": 0.9273706078529358,
+    "id": 76,
+    "word": "lancé",
+    "page-title": "Physical movement & action"
+  },
+  {
+    "rank": 19,
+    "score": 0.9273079633712769,
+    "id": 32,
+    "word": "réalisation",
+    "page-title": "Noetic categories"
+  },
+  {
+    "rank": 20,
+    "score": 0.9272822737693787,
+    "id": 64,
+    "word": "transmis",
+    "page-title": "Values"
+  }
+]
