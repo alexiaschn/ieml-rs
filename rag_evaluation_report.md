@@ -227,7 +227,7 @@ Répond uniquement avec une ligne CSV finale, sans explication.
 ```
 
 
-## Original report by Pierry Levy on the baseline
+## Qualitative evaluation by Pierry Levy on the baseline
 
 
 1) ABSURDITÉ LOGIQUE ET SÉMANTIQUE
@@ -249,6 +249,89 @@ Ne pas respecter la grammaire :
 - Trop verbeux. Il faut utiliser le minimum de mots : rasoir d’Occam
 
 
+## Qualitative evaluation by Pierre Levy on the models 
 
+<!-- ### 1.1 llama zeroshot
+
+
+ a- Redondance inutile une fois qu'on a dit violence 
+
+b- Je ne vois pas de concepts qui aide à faire des regroupements sémantiques
+
+c- Ne respecte pas la grammaire : "détruire" est en destinataire (3) or un verbe devrait être en rôle 0. 
+
+Point positif: Néanmoins les rôles 4 (instrument/cause), 5 (temps) 7 (intention) et 8 (manière) sont corrects
+
+d- détruire ou pendant conflit ajoute quelque chose au mot clé. Pareil pour système, ressource, etc.
+
+
+### 1.2 llama fewshots
+
+
+a- Grande redondance
+
+b- Pas de concepts qui aide à faire des regroupements sémantiques
+
+c- Respecte la grammaire! 
+
+d- Ajoute des concepts
+
+2.1 gemma zeroshot
+
+
+Translations_2 est TRÈS bizarre : 
+
+a- Grande et inutile redondance
+
+b- Pas de concepts qui aide à faire des regroupements sémantiques
+
+c- Tous les rôles 0 sont occupés par le mot “thème” (confusion du nom du rôle grammatical et du concept qui l’occupe). Les rôles 5 (temps) 6 (lieu) 7 (intention) et 8 (manière) sont remplis n'importe comment
+
+d- Combattant, victime, destruction *ajoutent* des concepts. Je vois, au hasard, que “littérature africaine” a “mort” en rôle 8 (manière)... ce qui n'a aucun rapport
+
+### 2.2 gemma fewshots
+
+
+a- Violence en rôle 0 et en rôle 4 !
+
+b- Pas de concepts qui aide à faire des regroupements sémantiques
+
+c- Rôle 1, 5 : confusuion du rôle et de l'actant qui remplit le rôle! 7 est l'intention et il me met "où". Divers endroits n'est pas un complément de manière. Action en rôle de destinataire. Aggresseur en rôle d'objet! Quoi en rôle de destinataire....
+
+d- ajoute des concepts: divers endroits
+
+### 3.1 openai zeroshot
+
+
+a- Redondance
+
+b- Pas de concepts qui aide à faire des regroupements sémantiques
+
+c- Dans exploitation "opportunisme" n'est pas un complément de temps
+
+d- Menace ajoute quelque chose. Dans le cas de "exploitation" esclavage, captivité, opportunisme, destruction, tromperie ajoutent quelque chose
+
+### 3.2 openai fewshots
+
+
+a- Redondance: exploitation, exploiter
+
+b- Pas de concepts qui aide à faire des regroupements sémantiques
+
+c- Grammaire : exploiter devrait être en rôle 0 (verbe). 
+
+d- Ajoute des concepts: militant, civil, grenade, tuer, pays arbitrage, corruption, etc.
+
+### SYNTHÈSE : 
+
+Les traductions 10 et 30 semblent les moins atroces (parce qu'elles ne massacrent pas trop la grammaire), mais je n'ai pas tout vérifié.
+
+Au mieux les "traductions" font des associations d'idées au lieu de phrases de définition. Au pire c'est n'importe quoi. Presque toutes les définitions *ajoutent* des traits sémantiques qui n'appartiennent pas au mot clé.
+
+Aucune ne respecte le rasoir d'Occam, aucune ne ménage des relations de ressemblance / différentiation sémantique entre mots-clés, ce qui est le propre de toute bonne ontologie IEML et qui est justement l'objectif que l'on veut atteindre. -->
+
+Translation of llama_fewshots and openai_fewshots seem to be the least atrocious.
+
+At best, the translations operate on an idea connections instead of defining sentences. At worse, it's nonsense. Almost all definitions (2 evaluated) added semantic features not belonging to the keyword. No model followed Occam's razor principle and none managed to build significant semantic differences between keywords, which is at the core of an IEML ontology and our goal for the app. 
 
 # Bibliography
