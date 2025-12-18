@@ -6,7 +6,7 @@ It is a Firefox extension that only works on [https://isidore.science](https://i
 
 ## How to use
 
-Complete explanation published in [Revue3.0 blog](https://revue30.org/blog/) ! 
+Complete explanation published in [Revue3.0 blog](https://revue30.org/blog/presentation-ieml-rs) ! 
 
 After installation go to [Isidore](https://isidore.science) and look for an article. On the bottom left corner should appear a button 'IEML-RS'. 
 
